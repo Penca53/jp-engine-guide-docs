@@ -14,4 +14,4 @@ The plant bullet travels at constant speed horizontally in the same direction as
 
 When the player jumps on top of the cup, the cup plays an animation, and the game is won. By pressing the Enter key, the scene gets reloaded.
 
-<figure><img src=".gitbook/assets/Screen Recording 2025-04-13 at 00.36.16.gif" alt=""><figcaption><p>(No SFX in the recording)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screen Recording 2025-04-13 at 00.36.16.gif" alt=""><figcaption><p>(No SFX in the recording)</p></figcaption></figure>

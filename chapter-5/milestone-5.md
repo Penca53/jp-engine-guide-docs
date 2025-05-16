@@ -10,4 +10,4 @@ If the player falls from the map or it gets hit by the mushroom, it disappears, 
 
 There is no win condition yet.
 
-<figure><img src=".gitbook/assets/Screen Recording 2025-04-14 at 15.03.10.gif" alt=""><figcaption><p>(No SFX in the recording)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screen Recording 2025-04-14 at 15.03.10.gif" alt=""><figcaption><p>(No SFX in the recording)</p></figcaption></figure>

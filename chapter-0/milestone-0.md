@@ -18,4 +18,4 @@ layout:
 
 If you build and run the `game` target, a window titled "Platformer" with a green circle in its center should appear on your screen!
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>

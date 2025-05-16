@@ -6,4 +6,4 @@
 
 Notice how the mushroom flips direction (and consequently the sprite is mirrored) when it touches a wall.
 
-<figure><img src=".gitbook/assets/Screen Recording 2025-04-28 at 00.10.59.gif" alt=""><figcaption><p>(No SFX in the recording)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screen Recording 2025-04-28 at 00.10.59.gif" alt=""><figcaption><p>(No SFX in the recording)</p></figcaption></figure>
